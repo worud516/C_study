@@ -3,7 +3,7 @@
 void main() {
 
 
-	printf("sadfasd");
-
+	printf("sadfasd\n");
+	printf("asdfsdf");
 
 }
