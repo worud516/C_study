@@ -8,6 +8,6 @@ c언어 공부
 
 ## ㅁㄴㅇㄹ
 - [x] asdf
-- [ ] asdf
+- [x] asdf
 
 
