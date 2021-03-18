@@ -105,6 +105,41 @@ void main() {
 	git config --global credential.helper manager
 	git credential-manager delete https://github.com
 	
+
+	t 프로그램 그 자체를 최신버전으로 업데이트
+	git update-git-for-windows
+	git 로그인 정보 없애기
+	git config --global credential.helper manager
+	git credential-manager delete https://github.com/
+	git 설치 직후 사용자 정보 세팅
+	git config --global user.name "깃허브 계정 ID"
+	git config --global user.email "이메일"
+	로컬 리포지터리 생성
+	git init
+	원격 저장소와 연결
+	git remote add origin 저장소주소
+	원격 저장소와 연결 삭제
+	git remote remove origin
+	커밋할 파일 장바구니에 담기
+	git add .
+	커밋
+	git commit -m "커밋 메시지"
+	푸시
+	git push origin master
+	과거로 돌아가기
+	git checkout -f 커밋번호
+	현재로 돌아오기
+	git checkout -f master
+	GitHub
+	GitHub: Where the world builds software
+	GitHub is where over 56 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...
+
+	git config --global user.name "깃허브 계정 ID"
+	git config --global user.email "이메일"
+
+
+
+
 	*/
 
 	
