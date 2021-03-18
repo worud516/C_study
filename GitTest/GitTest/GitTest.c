@@ -17,6 +17,36 @@ void main() {
 
 
 
+	첫 셋팅
+
+	git 폴더 생성
+
+	git init
+	git config --global user.name "깃허브 계정 ID"
+	git config --global user.email "이메일"
+
+	원격 저장소와 연결
+	git remote add origin 저장소주소
+
+	git clone 저장소주소 (둘중 하나만 씀 풀이 더 좋음)
+	git pull origin master (둘중 하나만 씀 풀이 더 좋음)
+
+
+	작업후 업로드시
+	git add .
+	git commit -m "내용"
+	git push origin master
+
+	git 로그인 정보 없애기
+	git config --global credential.helper manager
+	git credential-manager delete https://github.com/
+
+
+	git 프로그램 그 자체를 최신버전으로 업데이트 (비번 치라고 귀찮게 할때)
+	git update-git-for-windows
+
+
+
 	Bash Shell 기본 명령어
 	ls : 파일 리스트 출력
 	ls -l : 파일 리스트 출력(좀더 자세한 정보)
