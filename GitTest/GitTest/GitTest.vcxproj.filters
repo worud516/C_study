@@ -21,7 +21,10 @@
     <ClCompile Include="diamond.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="academy_tast_0321.c">
+    <ClCompile Include="academy_task_0322.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="academy_task_0321.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

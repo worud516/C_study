@@ -1,2 +1,8 @@
-﻿  academy_tast_0321.c
+﻿  academy_task_0322.c
+D:\C\C_study\GitTest\GitTest\academy_task_0322.c(16,33): warning C4311: '형식 캐스트': 'int *'에서 'long'(으)로 포인터가 잘립니다.
+D:\C\C_study\GitTest\GitTest\academy_task_0322.c(17,33): warning C4311: '형식 캐스트': 'int *'에서 'long'(으)로 포인터가 잘립니다.
+D:\C\C_study\GitTest\GitTest\academy_task_0322.c(18,35): warning C4311: '형식 캐스트': 'int *'에서 'long'(으)로 포인터가 잘립니다.
+D:\C\C_study\GitTest\GitTest\academy_task_0322.c(20,31): warning C4311: '형식 캐스트': 'int **'에서 'long'(으)로 포인터가 잘립니다.
+D:\C\C_study\GitTest\GitTest\academy_task_0322.c(21,33): warning C4311: '형식 캐스트': 'int ***'에서 'long'(으)로 포인터가 잘립니다.
+D:\C\C_study\GitTest\GitTest\academy_task_0322.c(22,33): warning C4311: '형식 캐스트': 'int **'에서 'long'(으)로 포인터가 잘립니다.
   GitTest.vcxproj -> D:\C\C_study\GitTest\x64\Debug\GitTest.exe
