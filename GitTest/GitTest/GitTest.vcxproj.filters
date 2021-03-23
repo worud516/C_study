@@ -27,5 +27,17 @@
     <ClCompile Include="academy_task_0321.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="academy_review_0323_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="academy_review_0323_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="academy_review_0323_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="academy_review_0323_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
