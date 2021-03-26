@@ -42,5 +42,8 @@
     <ClCompile Include="academy_review_constantBoolDeclaration_0325.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="academy_task_0326.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
