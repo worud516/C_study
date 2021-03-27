@@ -1,2 +1,6 @@
-﻿  academy_task_0326.c
+﻿  academy_task_0327.c
+D:\C\C_study\GitTest\GitTest\academy_task_0327.c(21,22): warning C4133: '함수': 'char [5]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+D:\C\C_study\GitTest\GitTest\academy_task_0327.c(24,22): warning C4133: '함수': 'char [5]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+D:\C\C_study\GitTest\GitTest\academy_task_0327.c(27,22): warning C4133: '함수': 'char [5]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+D:\C\C_study\GitTest\GitTest\academy_task_0327.c(30,22): warning C4133: '함수': 'char [5]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
   GitTest.vcxproj -> D:\C\C_study\GitTest\x64\Debug\GitTest.exe

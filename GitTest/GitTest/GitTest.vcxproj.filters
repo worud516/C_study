@@ -45,5 +45,8 @@
     <ClCompile Include="academy_task_0326.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="academy_task_0327.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
