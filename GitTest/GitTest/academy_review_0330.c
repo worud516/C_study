@@ -1,5 +1,8 @@
 #include <stdio.h>
+typedef int bool;
 
+#define true 1
+#define false 0
 
 int get_index_of_c(char* a, char b) {
 
@@ -24,6 +27,31 @@ void print_sub_str(char* s, int a, int b) {
         printf("%c", *(s + i));
     }
     printf("\n");
+}
+
+int get_str_len(char* str) {
+    int len = 0;
+
+    for (int i = 0; str[i] != '\0'; i++) {
+        len++;
+    }
+    return len;
+}
+
+
+bool starts_with(char* str, char* start) {
+    int str_len = get_str_len(str);
+    int start_len = get_str_len(start);
+
+    if (start_len > str_len) {
+        return false;
+    }
+    for (int i = 0; i < start_len; i++) {
+        if (str[i] != start[i]) {
+            return false;
+        }
+    }
+    return true;
 }
 
 int main(void) {
@@ -57,6 +85,20 @@ int main(void) {
     print_sub_str("abcd", 0, 2);
     // 출력 => ab
 
+    
+// 문제 : 출력을 보고 함수를 완성해주세요.
+
+
+    bool rs;
+
+    rs = starts_with("abc", "ab");
+    printf("rs : %d\n", rs); // 출력 rs : 1
+
+    rs = starts_with("kbs", "kb");
+    printf("rs : %d\n", rs); // 출력 rs : 1
+
+    rs = starts_with("mbc", "mc");
+    printf("rs : %d\n", rs); // 출력 rs : 0
 
 
 
