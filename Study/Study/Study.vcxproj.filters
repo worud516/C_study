@@ -45,5 +45,11 @@
     <ClCompile Include="GitTest.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct2_typedef_study.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct3_typedef_arr_study.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
