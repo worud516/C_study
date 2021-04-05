@@ -51,5 +51,11 @@
     <ClCompile Include="struct3_typedef_arr_study.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct4_study.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mallocStruct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
