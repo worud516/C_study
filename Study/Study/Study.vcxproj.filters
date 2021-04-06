@@ -63,5 +63,8 @@
     <ClCompile Include="malloc_Study_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Data_Structure_study.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
