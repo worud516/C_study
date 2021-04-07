@@ -72,5 +72,8 @@
     <ClCompile Include="academy_task_0406_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="academy_task_0406_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
