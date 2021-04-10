@@ -21,7 +21,7 @@ void addFirest(NODE* target, int data) {
 
 int main() {
 
-	NODE* head = malloc(sizeof(struct node));
+	NODE* head = malloc(sizeof(NODE));
 
 	
 	head->next = NULL;

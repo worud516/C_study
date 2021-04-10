@@ -81,5 +81,11 @@
     <ClCompile Include="linkedlist_study_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="linkedlist_study_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="linkedlist_test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
